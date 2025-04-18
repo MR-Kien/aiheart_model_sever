@@ -1,0 +1,17 @@
+fastapi
+transformers
+jinja2
+uvicorn
+torch
+httpx
+openai
+python-dotenv
+langchain_groq
+langchain_core
+python-multipart
+joblib
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
